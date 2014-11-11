@@ -1,2 +1,4 @@
 Some changes...
 new changes
+
+my changes
